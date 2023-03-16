@@ -1,3 +1,3 @@
 # Travelo
 
-Preview [travelo-itstep.netlify.app](https://travelo-itstep.netlify.app)
+Preview [gp-travelo.netlify.app](https://gp-travelo.netlify.app)
