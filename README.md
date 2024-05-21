@@ -13,7 +13,7 @@ Travelo is a web application designed to facilitate travel planning and booking.
 - **JavaScript:** For interactivity and dynamic content.
 
 ## Live Demo
-Check out the live version of the project [here](https://travelo-itstep.netlify.app).
+Check out the live version of the project [here](https://gp-travelo.netlify.app).
 
 ## Getting Started
 To get a local copy up and running, follow these simple steps:
